@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A certaine relation of the earle of Ormonds proseedings in Ireland, shewing what prisoners he hath taken, and what townes he hath burnt and what store of pillage he hath sent, and brought home with him. Also the manner of the enemies besieging Bandonbridge, with 12000. men, and how that there were slaine 2000. of them, the rest put to flight by the earle of Corke sonnes and Sir Charles Vauersour. Being a letter sent from Sir Robert Trevers to Sir. william Dike, living in theamestreet in London. Iune 3. Ordered to bee forthwith printed.</title>
+            <author>Travers, Robert, Sir.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94826</idno>
+            <idno type="STC">Wing T2132</idno>
+            <idno type="STC">Thomason E149_14</idno>
+            <idno type="STC">ESTC R12294</idno>
+            <idno type="EEBO-CITATION">99859253</idno>
+            <idno type="PROQUEST">99859253</idno>
+            <idno type="VID">156722</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94826)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156722)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E149[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A certaine relation of the earle of Ormonds proseedings in Ireland, shewing what prisoners he hath taken, and what townes he hath burnt and what store of pillage he hath sent, and brought home with him. Also the manner of the enemies besieging Bandonbridge, with 12000. men, and how that there were slaine 2000. of them, the rest put to flight by the earle of Corke sonnes and Sir Charles Vauersour. Being a letter sent from Sir Robert Trevers to Sir. william Dike, living in theamestreet in London. Iune 3. Ordered to bee forthwith printed.</title>
+                  <author>Travers, Robert, Sir.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Blading,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Burlington, Richard Boyle, --  Earl of, 1612-1698.</term>
+               <term>Ormonde, James Butler, --  Duke of, 1610-1688.</term>
+               <term>Orrery, Roger Boyle, --  Earl of, 1621-1679.</term>
+               <term>Vavasour, Charles, --  Sir, d. 1644.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156722:1" rendition="simple:additions"/>
+            <p>A CERTAINE relation of the Earle of Ormonds proſeedings in IRELAND, Shewing what Priſoners he hath taken, and what townes he hath burnt and what ſtore of Pillage he hath ſent, and brought home with him.</p>
+            <p>Alſo the manner of the Enemies be<g ref="char:EOLhyphen"/>ſieging <hi>Bandonbridge,</hi> with 12000. men, and how that there were ſlaine 2000. of them, the reſt put to flight by the Earle of <hi>Corke</hi> ſonnes and Sir <hi>Charles Vauarſour.</hi>
+            </p>
+            <p>Being a Letter ſent from Sir <hi>Robert Trevers</hi> to Sir. <hi>william Dike,</hi> living in theameſtreet in London</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Iune 3.</date>
+                           </dateline>
+                        </opener>
+                        <p>Ordered to bee forthwith printed.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>London Printed for <hi>Iohn Blading</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:156722:2"/>
+            <pb facs="tcp:156722:2"/>
+            <head>A Certaine relation of the Earle of Ormonds victories of late.</head>
+            <opener>
+               <salute>Worthy Sir</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Know you cannot but much deſire to here from your friends eſpecially having left them in this miſerable diſtracted Kingdom, where nothing is frequent but tu<g ref="char:EOLhyphen"/>mults and bloudy maſacres; yet in the midſt of theſe it hath pleaſed Almigh<g ref="char:EOLhyphen"/>ty God to bleſſe your friends with health: I know you expect ſome news from hence, and God be prayſed, I never had more cauſe, nor betternewes to certifie you of, which hath con<g ref="char:EOLhyphen"/>duced
+<pb n="4" facs="tcp:156722:3"/>to the glory of Almighty God, and the comfort of all us poore diſtreſſed Proteſtants, againſt whom that devouing beaſt of <hi>Rome,</hi> hath ad<g ref="char:EOLhyphen"/>vanced her Force.</p>
+            <p>About the beginning of this moneth <hi>O Suli<g ref="char:EOLhyphen"/>van Beare,</hi> came from the Weſterne parts with twelue thouſand men, and came to <hi>Timoleague,</hi> where Doctor <hi>Roger O Shahqns</hi> dwels and pilla<g ref="char:EOLhyphen"/>ged the towne, and killed a great many of the Engliſh barborouſly, raviſhing theis Wives and Daughters, taking the prey of all the towne, marched away and came to <hi>Macharta Reh</hi> a great Rebell who had 12000 men, joyned theit Forces, marched to <hi>Band<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nbridge,</hi> and there beſieged the towne and us in it, threatning to put us all to the ſworde if we did not preſently render the towne, ſo theſe Rebels and their Forces continued before the towne ſtrictly be<g ref="char:EOLhyphen"/>ſieging us, and daily ſhooting at the towne, the ſpace of four dayes, in which time we had diſpatched certaine Meſſengers to my Lord Preſident of <hi>Munſter</hi> to <hi>Corke,</hi> who hearing of our diſtreſſe, ſent Sir <hi>Charles Vavaſour,</hi> who came in the night with only 500. men and ſome other Engliſh Commanders, and two peeces of Ord<g ref="char:EOLhyphen"/>nance, who made an aſſalt upon them before it was light (they not expecting any ſuch thing) which being ſo ſuddenly performed, did ſo di<g ref="char:EOLhyphen"/>ſtract and amaze the Rebels that they ſeemed to bee men without life, and we hearing this
+<pb n="5" facs="tcp:156722:3"/>Alarme in the towne, having 2000. men in readineſſe under the command of the Right Honourable the Lords of <hi>Cenelmuch</hi> &amp; <hi>Brahull,</hi> both my Lord of <hi>Corkes</hi> ſonnes (as having bee<g ref="char:EOLhyphen"/>fore had intelligence of the ſtratagem) did iſſue out upon them, and ualiently aſſailed them, who at the comming of the towne Forces, they were abſolutely routed, and every man began to provide for his ſafetie by flight, nor could the threats nor perſwaſions of their Commanders cauſe them to ſtay but they all run away, and left their cheife Commander <hi>O Sulivan Beare,</hi> who was there taken priſoner, yet for all their haſt there were at this bickering ſlaine and wounded on the Rebels part to the number of 2000. men wee looſing but twenty men beſide ſome priſoners that were preſently conveyed to <hi>Corke</hi> to my Lord Preſedent, who preſently cau<g ref="char:EOLhyphen"/>ſed them all to be hanged. Thus wee dayly ſee by experience how mightily God fighteth for us, to whom be praiſe and glory for evermore.</p>
+            <p>On <hi>Wedneſday</hi> morning the 21. of <hi>Mây</hi> they burnt <hi>Ratowth</hi> and ſo marched to <hi>Lonſhaglan</hi> that day being uery foule and unfit for a long march, on that day Leive-tenant <hi>Collonell Read,</hi> and <hi>Birſsad</hi> of <hi>Kilrow,</hi> his eldeſt Sonne who rendred them ſelves to the Earle of <hi>Ormond,</hi> as did alſo Mr. <hi>Patrick Barnwall,</hi> were ſent by the Earle of <hi>Ormond</hi> in the conidition of priſoners with twelue horſe to the Lords
+<pb n="9" facs="tcp:156722:4"/>Lords, Iuſtices, who denying them acceſſe to their preſence, commanded their committall to the Caſtle, where now they are and ſtill re<g ref="char:EOLhyphen"/>maine.</p>
+            <p>On that day alſo Captaine <hi>Roper</hi> Sir <hi>Iohn Bor<g ref="char:EOLhyphen"/>laſſe</hi> and Captaine <hi>Bien</hi> arived from <hi>Droghedah</hi> by Sea and brought us the glad newes of thoſe which were in <hi>Tredah,</hi> Garriſons beating the Rebells from all their quarters round about <hi>Drogheda,</hi> in ſo much as the Rebells and with them the Arch-rebell Sir <hi>Phelim Oneall</hi> have bin Conſtrained ſhamefull to ſorſake the ſeige and run away, leaveing not a man about the Towne of Drogheda, and ſo the Lords and other Re<g ref="char:EOLhyphen"/>bells of the pale thus abandoned be the Nor<g ref="char:EOLhyphen"/>thren Rebells are forced to forſake their owne habitations, and goe along with the Northren Rebells or hide their heads ſome where elſe from their owne houſes, of which they have mournfully taken their laſt leave ſo as many think ever to ſee them or their owne againe</p>
+            <p>Sir <hi>Henry Tichborne</hi> hath burnt ſeverall Townes about him for three or foure miles and brought to the Towe in abundant ſtore of Corn poſſeſſed him ſelfe of <hi>Brawly</hi> wherby he is Mai<g ref="char:EOLhyphen"/>ſter of the harbor, and now open Market is kept again in the Towne, ſo as we have ſtill more cauſe to ioyne in due thankfullneſſe to Goq for his ſtill continued miraculous deliverances of us.</p>
+            <pb n="7" facs="tcp:156722:4"/>
+            <p> On <hi>Thurſday</hi> the 22. of <hi>May</hi> other twelve horſes were returned back to the Earle of <hi>Or<g ref="char:EOLhyphen"/>mond</hi> in leiu of the twelue he had ſent the day before to guard the priſoners hither, but thoſe twelue horſe obſerveing ſome more ſtrength in the way ſome ſix miles hence then they could ſafely encounter returned back to <hi>Dublin</hi> again.</p>
+            <p>Therfore on the next morning being <hi>Friday</hi> at foure of the Clock 60 horſe were ſent in their roomes, the Earle wanted not any ſuch acces<g ref="char:EOLhyphen"/>ſion of ſtrength, 28 put to paſſe ſtrongly and un<g ref="char:EOLhyphen"/>reſiſtably in meſſages betwene the <hi>Lords Iuſtices,</hi> and the <hi>Earle</hi> whilſt he was doing the worke of burning that part of the Pale.</p>
+            <p>On <hi>Sunday</hi> the 25. the <hi>Earle</hi> ſent a guard hi<g ref="char:EOLhyphen"/>ther with theſe priſoners following, <hi>Edward Dowdall</hi> of <hi>Muncklowne, Lawrance Dowdall</hi> hi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſon <hi>Nicholas Dowdall</hi> of <hi>Browneſtowne, Gerrald Ailmer</hi> the Lawyer <hi>William Mallone</hi> of <hi>Liſſmulen Stephen Dowdall</hi> of <hi>Claſſlowne.</hi>
+            </p>
+            <p>On <hi>Tueſday</hi> the 27. and <hi>Wedneſday</hi> much pillage vvas ſent home by the Army vvherby the other ſibe are made to ſee that now they have done pillaging as we begin to pillage them</p>
+            <p>The <hi>Earle</hi> haveing cauſed divers houſes to be burnt and pillaged and amongeſt the reſt ſome of the <hi>Lords</hi> houſes of the pale, he return<g ref="char:EOLhyphen"/>ed to <hi>Dublin</hi> with the Army haveing left 500 men and a Troupe of horſe, which he left with Sir <hi>Henry-Tichburne</hi> at <hi>Drogheda</hi> the better to
+<pb n="8" facs="tcp:156722:5"/>inable him, to burne ſpoile waſt and deſtroy all the Rebells in the County of <hi>Lowſh</hi> and the other parts adioyning to <hi>Drogheda,</hi> which Sir <hi>Robert Travers</hi> hath already begun to doe and, haveing 200 men which he left in garriſon at <hi>Millakide,</hi> Sir <hi>Iohn Netervile</hi> alſo rendred him<g ref="char:EOLhyphen"/>ſelfe in that Iorney to the <hi>Earle</hi> of <hi>Ormond.</hi>
+            </p>
+            <p>Since that time <hi>Georg Doveniſh Iohn Tal<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> of <hi>Robertſtowne</hi> and Sir <hi>Andrew Aileaner</hi> rendred themſelves to the <hi>Lords, Iuſtices,</hi> as alſo did the <hi>Lord Baron</hi> of <hi>Dunſany</hi> on the 27 of <hi>May,</hi> and that Lord and Sir <hi>Iohn Nettervill</hi> and all the reſt ſtand Commited to the Caſtle as Priſoners.</p>
+         </div>
+         <trailer>FJNIS</trailer>
+      </body>
+   </text>
+</TEI>
